@@ -1,34 +1,29 @@
 {
-  "corpus": {
-    "en.txt": "",
-    "es.txt": "",
-    "hi.txt": "",
-    "ru.txt": ""
-  },
+  "corpus": "https://cogcomp.seas.upenn.edu/models/mbert-study/corpus.tgz",
   "bert_models": {
     "wordpiece-experiments": {
-    "en-es": "",
-      "enfake-es": "",
-      "en-hi": "",
-      "enfake-hi": "",
-      "en-ru": "",
-      "enfake-ru": ""
+      "en-es": "https://cogcomp.seas.upenn.edu/models/mbert-study/wordpiece_en-es.tgz",
+      "enfake-es": "https://cogcomp.seas.upenn.edu/models/mbert-study/wordpiece_enfake-es.tgz",
+      "en-hi": "https://cogcomp.seas.upenn.edu/models/mbert-study/wordpiece_en-hi.tgz",
+      "enfake-hi": "https://cogcomp.seas.upenn.edu/models/mbert-study/wordpiece_enfake-hi.tgz",
+      "en-ru": "https://cogcomp.seas.upenn.edu/models/mbert-study/wordpiece_en-ru.tgz",
+      "enfake-ru": "https://cogcomp.seas.upenn.edu/models/mbert-study/wordpiece_enfake-ru.tgz"
     },
     "word-order-experiments": {
-      "enfake-es-0.25": "",
-      "enfake-es-0.5": "",
-      "enfake-es-1.0": "",
-      "enfake-hi-0.25": "",
-      "enfake-hi-0.5": "",
-      "enfake-hi-1.0": "",
-      "enfake-ru-0.25": "",
-      "enfake-ru-0.5": "",
-      "enfake-ru-1.0": ""
+      "enfake-es-0.25": "https://cogcomp.seas.upenn.edu/models/mbert-study/wordorder_enfake-es-0.25.tgz",
+      "enfake-es-0.5": "https://cogcomp.seas.upenn.edu/models/mbert-study/wordorder_enfake-es-0.5.tgz",
+      "enfake-es-1.0": "https://cogcomp.seas.upenn.edu/models/mbert-study/wordorder_enfake-es-1.0.tgz",
+      "enfake-hi-0.25": "https://cogcomp.seas.upenn.edu/models/mbert-study/wordorder_enfake-hi-0.25.tgz",
+      "enfake-hi-0.5": "https://cogcomp.seas.upenn.edu/models/mbert-study/wordorder_enfake-hi-0.5.tgz",
+      "enfake-hi-1.0": "https://cogcomp.seas.upenn.edu/models/mbert-study/wordorder_enfake-hi-1.0.tgz",
+      "enfake-ru-0.25": "https://cogcomp.seas.upenn.edu/models/mbert-study/wordorder_enfake-ru-0.25.tgz",
+      "enfake-ru-0.5": "https://cogcomp.seas.upenn.edu/models/mbert-study/wordorder_enfake-ru-0.5.tgz",
+      "enfake-ru-1.0": "https://cogcomp.seas.upenn.edu/models/mbert-study/wordorder_enfake-ru-1.0.tgz"
     },
     "word-frequency-experiments": {
-      "enfake-es": "",
-      "enfake-hi": "",
-      "enfake-ru": ""
+      "enfake-es": "https://cogcomp.seas.upenn.edu/models/mbert-study/wordfrequency_enfake-es.tgz",
+      "enfake-hi": "https://cogcomp.seas.upenn.edu/models/mbert-study/wordfrequency_enfake-hi.tgz",
+      "enfake-ru": "https://cogcomp.seas.upenn.edu/models/mbert-study/wordfrequency_enfake-ru.tgz"
     }
   }
 }
