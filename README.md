@@ -45,12 +45,12 @@ With models we provide or just trained, we provide code for evaluating on two ta
  
 ## BERT Models
 
-We release the following bert models:
+We are releasing the following BERT models:
 - Word-piece Experiments 
 - Word Order Experiments
 - Word Frequency Experiments
 
-See [data](data.json) for detailed paths to download.
+See [data](data.json) for detailed paths to download the models.
 
 ## Requirements
 
